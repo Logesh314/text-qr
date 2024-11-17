@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^12.0.1",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "it covert text to qr",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "logesh kumar",
+  "license": "ISC"
+}
